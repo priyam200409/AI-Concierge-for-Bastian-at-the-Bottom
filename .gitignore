@@ -6,8 +6,9 @@ __pycache__/
 *.pyc
 
 # ChromaDB
-# data/vector_db/
+# ChromaDB vector database (generated locally)
 
 # Virtual environments
 venv/
 .venv/
+data/vector_db/
