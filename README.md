@@ -56,5 +56,5 @@ See LICENSE file for details.
 
 ## Author
 
-**Name**: Jatin Rajani  
-**Email**: jatin.rajani_cs23@gla.ac.in
+**Name**: Priyam Srivastava  
+**Email**: priyamsri09@gmail.com
